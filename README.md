@@ -8,7 +8,7 @@ Universidad Industrial de Santander
 # Noticias:
 
 Por favor llenar la encuesta para escoger el horario de consulta:
-<https://doodle.com/poll/4yhsw8dxtx5zb7bx>
+<https://doodle.com/poll/2wxd4bwigfpmtmvg>
 
 
 ## Sistema de evaluación
