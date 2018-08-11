@@ -23,7 +23,7 @@ _(approx. 4 semanas)_
 ## Tercer corte: 
 _(approx. 4 semanas)_
 
-1.Ecuaciones de Maxwell: Solución de onda plana,velocidad de la onda, energía, vector de poynting, momento de la onda
+1. Ecuaciones de Maxwell: Solución de onda plana,velocidad de la onda, energía, vector de poynting, momento de la onda
 2. Espectro electromagnético, principios de Huygens y Fermat,  reflexión y transmisión (leyes de Snell)
 3. Interferencia: experimento de Young, red de difracción,peliculas delgadas, difracción
 4. Polarización.
