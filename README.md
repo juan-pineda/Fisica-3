@@ -1,6 +1,7 @@
 # Fisica-3
 
 Profesor: Juan Carlos Basto Pineda
+
 Universidad Industrial de Santander
 
 Última actualización: 11 de agosto de 2018
