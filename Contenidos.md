@@ -1,8 +1,8 @@
 # Fisica-3
 
-Profesor: Juan Carlos Basto Pineda
-Universidad Industrial de Santander
-Semestre: 2018 - 2
+Profesor: Juan Carlos Basto Pineda  
+Universidad Industrial de Santander  
+Semestre: 2018 - 2  
 
 ## Primer corte: Oscilaciones
 _(approx. 4 semanas)_
