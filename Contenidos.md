@@ -35,7 +35,20 @@ _(approx. 3 semanas)_
 2. Ondas de De Broglie, principio de incertidumbre, espectro discreto de la radiación, modelo de borh,
 3. El espin y la magnetización de la materia
 
-Bibliografía sugerida:
+## Sistema de evaluación
+
+* Examen del primer corte: 15%
+* Examen del segundo corte: 15%
+* Examen del tercer corte: 15%
+* Examen Final: 15 %
+* Laboratorios: 20%
+* Quices, talleres y tareas: 20%
+
+
+**Nota:**
+Todos los exámenes son por escuela.
+
+## Bibliografía sugerida:
 
 * Física Serway tomo 1
 * Sears Tomo 1.
