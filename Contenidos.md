@@ -20,7 +20,7 @@ _(approx. 4 semanas)_
 3. Ondas sonoras:velocidad, energía, potencia, ondas estacionarias, intensidad
 4. Velocidad de grupo, efecto Doppler, efecto Mach
 
-## Tercer corte: 
+## Tercer corte: Ondas Electromagnéticas
 _(approx. 4 semanas)_
 
 1. Ecuaciones de Maxwell: Solución de onda plana,velocidad de la onda, energía, vector de poynting, momento de la onda
