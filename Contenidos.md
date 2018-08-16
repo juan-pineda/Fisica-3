@@ -25,15 +25,15 @@ _(approx. 4 semanas)_
 
 1. Ecuaciones de Maxwell: Solución de onda plana,velocidad de la onda, energía, vector de poynting, momento de la onda
 2. Espectro electromagnético, principios de Huygens y Fermat,  reflexión y transmisión (leyes de Snell)
-3. Interferencia: experimento de Young, red de difracción,peliculas delgadas, difracción
+3. Interferencia: experimento de Young, red de difracción, peliculas delgadas, difracción
 4. Polarización.
 
 ## Cuarto corte: Introducción a la física moderna
 _(approx. 3 semanas)_
 
-1. Radiación de cuerpo negro, efecto fotoelectrico, efecto compton
-2. Ondas de De Broglie, principio de incertidumbre, espectro discreto de la radiación, modelo de borh,
-3. El espin y la magnetización de la materia
+1. Radiación de cuerpo negro, efecto fotoeléctrico, efecto Compton
+2. Ondas de De Broglie, principio de incertidumbre, espectro discreto de la radiación, modelo de Bohr
+3. El espín y la magnetización de la materia
 
 ## Sistema de evaluación
 
