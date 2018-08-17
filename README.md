@@ -11,10 +11,16 @@ Universidad Industrial de Santander
 
 ## Horarios de consulta
 
-* Lunes 9:00 - 10:00 a.m
+* Lunes 9:00 - 10:00 a.m  
+Salón 315 de LL
 
-El lugar está por definir. Por ahora por favor verificar si el horario
-propuesto les sirve, y en caso contrario avisarme por e-mail.
+## Horario adicional de consulta
+Las personas que manifestaron hoy en clase que no les sirve el horario de consulta
+por que se les cruza con otra materia, por favor ingresen a llenar la siguiente encuesta:  
+
+<https://doodle.com/poll/565nrzxni54syzie>
+
+Por favor **marquen TODOS los horarios posibles**
 
 
 
